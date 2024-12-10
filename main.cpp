@@ -10,7 +10,6 @@ int main(){
   tour.inscription(j3);
   tour.lance_tournoi();
 
-  tour.vide_participants();
 
   cout << endl << "Nouveau Tournoi" << endl;
 
